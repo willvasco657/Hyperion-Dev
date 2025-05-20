@@ -1,0 +1,6 @@
+admin, adm1n
+Will, Beans
+Daisy, Lovely
+Alan, Corsair
+Mario, Yoshi
+Darth, Vader

@@ -1,0 +1,9 @@
+mkdir Beans
+mkdir Apples
+mkdir Oranges
+cd Beans
+mkdir GreenBeans
+mkdir PintoBeans
+mkdir BlackBeans
+rmdir PintoBeans
+rmdir BlackBeans

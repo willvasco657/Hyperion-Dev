@@ -1,0 +1,26 @@
+COMPULSORY TASK 1
+
+1. 	Definitions
+	a)	Data - Raw facts, such as a telephone number, customer name, or birth date. Generally has little meaning unless it has been organised. 
+		A single character is the smallest piece of data that can be recognised by a computer as it only takes up 1 byte of space
+	b) 	Field - A field is a character or group of characters that has a specific meaning. It is used to define and store data.
+	c) 	Record - A record is a logically connect set of one or more fields that describes a person, place, or thing
+	d) 	File - A file is a collection of related records
+
+2) 	A DBMS is a 'Database Management System'. The advantages of a DBMS are as follows:
+	- 	Better data sharing: makes it possible for end-users to have more efficient access to data that is better managed
+	- 	Imporoved data integration: provides a clearer and more integrated view of the organisation's operations to the end-users
+	- 	Minimised data inconsistency: properly designed databases greatlky reduce the probability of data inconsistency as data drawn from a variety of sources or end-users
+	- 	Improved data access: A DBMS makes it possible to produce quick answers to spontaneous queries 
+	- 	Improved decision making: better quality information is generated due to better-managed data and improved data access
+	- 	Increased end-user productivity: encourages end-users to make quicker and more informed decisions
+
+3)	The difference between data and information is that data are raw facts. It has not been processed to reveal its meaning and unless organised properley, 
+	data generally has very little meaning. Information is used in decision making and is made with accurate and well organised data. It must be generated and
+	stored properly so it is easy to access and understand.
+	
+4)	Metadata is data that describes the characteristics of other data.
+
+5)	
+	e)	The file contains 4 records
+	f)	There are 4 fields per record

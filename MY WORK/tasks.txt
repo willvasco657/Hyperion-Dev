@@ -1,0 +1,10 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+Will, Largest European Cities, Create a list of Europe's top 5 most populous cities in descending order, 15/03/2025, 08/03/2025, No
+Darth, Generate Statistics, Generate the statistics for each team member in terms of their tasks completed, 31/03/2025, 07/03/2025, No
+Alan, Calculations, Calculate the average number of days that each team member has taken to complete each task, 25/03/2025, 03/03/2025, No
+Mario, Scores, Take each team members scores for their tasks and calculate which team member has scored the highest, 21/03/2025, 26/03/2025, No
+Daisy, Modify, Modify each team members due date for their tasks and determine who still has the most time for completion, 28/03/2025, 08/03/2025, No
+Darth, Holidays, Caclulate each team members holiday days and decline all of their requests, 25/06/2025, 08/03/2025, No
+Mario, Games, Count how many games have been produced in the last decade by Nintendo and calculate the average cost, 16/03/2025, 08/03/2025, No
+Will, Garden, Determine which is the most cost effective way to improve the garden, decking or a patio, 15/03/2025, 08/03/2025, No
